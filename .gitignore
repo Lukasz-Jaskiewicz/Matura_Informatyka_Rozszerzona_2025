@@ -1,4 +1,5 @@
 .vscode/
+__pycache__/
 
 wyniki1.txt
 wyniki2.txt
